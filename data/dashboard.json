@@ -1,0 +1,66 @@
+{
+    "titel": "Studien Dashboard",
+    "semester": [
+        {
+            "nummer": 1,
+            "module": []
+        },
+        {
+            "nummer": 2,
+            "module": []
+        },
+        {
+            "nummer": 3,
+            "module": []
+        },
+        {
+            "nummer": 4,
+            "module": []
+        },
+        {
+            "nummer": 5,
+            "module": []
+        },
+        {
+            "nummer": 6,
+            "module": []
+        }
+    ],
+    "lernzeit": {
+        "soll_stunden": 30,
+        "tage": [
+            {
+                "wochentag": "MONTAG",
+                "gelernte_stunden": 0
+            },
+            {
+                "wochentag": "DIENSTAG",
+                "gelernte_stunden": 0
+            },
+            {
+                "wochentag": "MITTWOCH",
+                "gelernte_stunden": 0
+            },
+            {
+                "wochentag": "DONNERSTAG",
+                "gelernte_stunden": 0
+            },
+            {
+                "wochentag": "FREITAG",
+                "gelernte_stunden": 0
+            },
+            {
+                "wochentag": "SAMSTAG",
+                "gelernte_stunden": 0
+            },
+            {
+                "wochentag": "SONNTAG",
+                "gelernte_stunden": 0
+            }
+        ]
+    },
+    "todo_liste": {
+        "name": "Meine Aufgaben",
+        "todos": []
+    }
+}
